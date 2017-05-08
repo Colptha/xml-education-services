@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courseRevenueByWeek>
+  <course id="git002">
+    <weeklyRevenue>$3,000.00</weeklyRevenue>
+  </course>
+  <course id="git003">
+    <weeklyRevenue>$3,000.00</weeklyRevenue>
+  </course>
+  <course id="git004">
+    <weeklyRevenue>$3,000.00</weeklyRevenue>
+  </course>
+  <course id="git001">
+    <weeklyRevenue>$2,925.00</weeklyRevenue>
+  </course>
+  <course id="git005">
+    <weeklyRevenue>$2,775.00</weeklyRevenue>
+  </course>
+  <course id="hiber001">
+    <weeklyRevenue>$1,350.00</weeklyRevenue>
+  </course>
+  <course id="hiber005">
+    <weeklyRevenue>$1,350.00</weeklyRevenue>
+  </course>
+  <course id="rails002">
+    <weeklyRevenue>$1,300.00</weeklyRevenue>
+  </course>
+  <course id="hiber002">
+    <weeklyRevenue>$1,275.00</weeklyRevenue>
+  </course>
+  <course id="rails001">
+    <weeklyRevenue>$1,137.50</weeklyRevenue>
+  </course>
+  <course id="rails003">
+    <weeklyRevenue>$1,083.33</weeklyRevenue>
+  </course>
+  <course id="hiber003">
+    <weeklyRevenue>$1,050.00</weeklyRevenue>
+  </course>
+  <course id="rails004">
+    <weeklyRevenue>$975.00</weeklyRevenue>
+  </course>
+  <course id="spring003">
+    <weeklyRevenue>$933.33</weeklyRevenue>
+  </course>
+  <course id="spring005">
+    <weeklyRevenue>$933.33</weeklyRevenue>
+  </course>
+  <course id="hiber004">
+    <weeklyRevenue>$900.00</weeklyRevenue>
+  </course>
+  <course id="spring002">
+    <weeklyRevenue>$816.67</weeklyRevenue>
+  </course>
+  <course id="java005">
+    <weeklyRevenue>$725.00</weeklyRevenue>
+  </course>
+  <course id="spring001">
+    <weeklyRevenue>$700.00</weeklyRevenue>
+  </course>
+  <course id="spring004">
+    <weeklyRevenue>$641.67</weeklyRevenue>
+  </course>
+  <course id="java003">
+    <weeklyRevenue>$625.00</weeklyRevenue>
+  </course>
+  <course id="java001">
+    <weeklyRevenue>$600.00</weeklyRevenue>
+  </course>
+  <course id="ruby004">
+    <weeklyRevenue>$590.62</weeklyRevenue>
+  </course>
+  <course id="ruby002">
+    <weeklyRevenue>$534.38</weeklyRevenue>
+  </course>
+  <course id="java004">
+    <weeklyRevenue>$525.00</weeklyRevenue>
+  </course>
+  <course id="ruby001">
+    <weeklyRevenue>$478.12</weeklyRevenue>
+  </course>
+  <course id="java002">
+    <weeklyRevenue>$425.00</weeklyRevenue>
+  </course>
+  <course id="xml005">
+    <weeklyRevenue>$425.00</weeklyRevenue>
+  </course>
+  <course id="ruby003">
+    <weeklyRevenue>$421.88</weeklyRevenue>
+  </course>
+  <course id="ruby005">
+    <weeklyRevenue>$421.88</weeklyRevenue>
+  </course>
+  <course id="xml002">
+    <weeklyRevenue>$400.00</weeklyRevenue>
+  </course>
+  <course id="xml004">
+    <weeklyRevenue>$400.00</weeklyRevenue>
+  </course>
+  <course id="xml001">
+    <weeklyRevenue>$375.00</weeklyRevenue>
+  </course>
+  <course id="xml007">
+    <weeklyRevenue>$375.00</weeklyRevenue>
+  </course>
+  <course id="xml008">
+    <weeklyRevenue>$375.00</weeklyRevenue>
+  </course>
+  <course id="xml006">
+    <weeklyRevenue>$350.00</weeklyRevenue>
+  </course>
+  <course id="xml009">
+    <weeklyRevenue>$350.00</weeklyRevenue>
+  </course>
+  <course id="xml003">
+    <weeklyRevenue>$325.00</weeklyRevenue>
+  </course>
+</courseRevenueByWeek>

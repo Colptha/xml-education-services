@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="instructors">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="instructor" minOccurs="1" maxOccurs="unbounded" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="instructor">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="firstName" />
+        <xs:element ref="lastName" />
+        <xs:element ref="salary" />
+      </xs:sequence>
+      <xs:attribute ref="iID" use="required" />
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="firstName" type="xs:string" />
+  <xs:element name="lastName" type="xs:string" />
+  <xs:element name="salary" type="xs:positiveInteger" />
+
+  <xs:attribute name="iID">
+     <xs:simpleType>
+        <xs:restriction base="xs:string">
+           <xs:pattern value="I\d{2}" />
+        </xs:restriction>
+     </xs:simpleType>
+  </xs:attribute>
+
+</xs:schema>

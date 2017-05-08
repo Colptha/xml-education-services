@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="students">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="student" minOccurs="1" maxOccurs="unbounded" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="student">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="firstName" />
+        <xs:element ref="lastName" />
+        <xs:element ref="courses" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="firstName" type="xs:string" />
+  <xs:element name="lastName" type="xs:string" />
+
+  <xs:element name="courses">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="course" minOccurs="1" maxOccurs="unbounded" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="course">
+    <xs:complexType>
+      <xs:attribute ref="cID" use="required" />
+    </xs:complexType>
+  </xs:element>
+
+  <xs:attribute name="cID">
+    <xs:simpleType>
+       <xs:restriction base="xs:string">
+          <xs:pattern value="[a-z]+\d{3}" />
+       </xs:restriction>
+    </xs:simpleType>
+  </xs:attribute>
+
+</xs:schema>

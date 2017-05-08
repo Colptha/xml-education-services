@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<instructors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:noNamespaceSchemaLocation="../validation/instructors.xsd">
+  <instructor iID="I01">
+    <firstName>Johnny</firstName>
+    <lastName>Cash</lastName>
+    <salary>50000</salary>
+  </instructor>
+  <instructor iID="I02">
+    <firstName>Tony</firstName>
+    <lastName>Thomas</lastName>
+    <salary>45000</salary>
+  </instructor>
+  <instructor iID="I03">
+    <firstName>Chris</firstName>
+    <lastName>Lee</lastName>
+    <salary>42000</salary>
+  </instructor>
+  <instructor iID="I04">
+    <firstName>Greg</firstName>
+    <lastName>Beale</lastName>
+    <salary>55000</salary>
+  </instructor>
+  <instructor iID="I05">
+    <firstName>Don</firstName>
+    <lastName>Carson</lastName>
+    <salary>61000</salary>
+  </instructor>
+</instructors>

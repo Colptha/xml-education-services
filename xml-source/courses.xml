@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<courses xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="../validation/courses.xsd">
+  <course cID="java001">
+    <topic>Java</topic>
+    <instructor iID="I01">
+      <firstName>Johnny</firstName>
+      <lastName>Cash</lastName>
+    </instructor>
+    <enrollment>24</enrollment>
+    <price>200</price>
+    <weeks>8</weeks>
+  </course>
+  <course cID="java002">
+    <topic>Java</topic>
+    <instructor iID="I02">
+      <firstName>Tony</firstName>
+      <lastName>Thomas</lastName>
+    </instructor>
+    <enrollment>17</enrollment>
+    <price>200</price>
+    <weeks>8</weeks>
+  </course>
+  <course cID="java003">
+    <topic>Java</topic>
+    <instructor iID="I01">
+      <firstName>Johnny</firstName>
+      <lastName>Cash</lastName>
+    </instructor>
+    <enrollment>25</enrollment>
+    <price>200</price>
+    <weeks>8</weeks>
+  </course>
+  <course cID="java004">
+    <topic>Java</topic>
+    <instructor iID="I02">
+      <firstName>Tony</firstName>
+      <lastName>Thomas</lastName>
+    </instructor>
+    <enrollment>21</enrollment>
+    <price>200</price>
+    <weeks>8</weeks>
+  </course>
+  <course cID="java005">
+    <topic>Java</topic>
+    <instructor iID="I01">
+      <firstName>Johnny</firstName>
+      <lastName>Cash</lastName>
+    </instructor>
+    <enrollment>29</enrollment>
+    <price>200</price>
+    <weeks>8</weeks>
+  </course>
+  <course cID="spring001">
+    <topic>Spring</topic>
+    <instructor iID="I02">
+      <firstName>Tony</firstName>
+      <lastName>Thomas</lastName>
+    </instructor>
+    <enrollment>12</enrollment>
+    <price>350</price>
+    <weeks>6</weeks>
+  </course>
+  <course cID="spring002">
+    <topic>Spring</topic>
+    <instructor iID="I01">
+      <firstName>Johnny</firstName>
+      <lastName>Cash</lastName>
+    </instructor>
+    <enrollment>14</enrollment>
+    <price>350</price>
+    <weeks>6</weeks>
+  </course>
+  <course cID="spring003">
+    <topic>Spring</topic>
+    <instructor iID="I02">
+      <firstName>Tony</firstName>
+      <lastName>Thomas</lastName>
+    </instructor>
+    <enrollment>16</enrollment>
+    <price>350</price>
+    <weeks>6</weeks>
+  </course>
+  <course cID="spring004">
+    <topic>Spring</topic>
+    <instructor iID="I02">
+      <firstName>Tony</firstName>
+      <lastName>Thomas</lastName>
+    </instructor>
+    <enrollment>11</enrollment>
+    <price>350</price>
+    <weeks>6</weeks>
+  </course>
+  <course cID="spring005">
+    <topic>Spring</topic>
+    <instructor iID="I01">
+      <firstName>Johnny</firstName>
+      <lastName>Cash</lastName>
+    </instructor>
+    <enrollment>16</enrollment>
+    <price>350</price>
+    <weeks>6</weeks>
+  </course>
+  <course cID="ruby001">
+    <topic>Ruby</topic>
+    <instructor iID="I03">
+      <firstName>Chris</firstName>
+      <lastName>Lee</lastName>
+    </instructor>
+    <enrollment>17</enrollment>
+    <price>225</price>
+    <weeks>8</weeks>
+  </course>
+  <course cID="ruby002">
+    <topic>Ruby</topic>
+    <instructor iID="I03">
+      <firstName>Chris</firstName>
+      <lastName>Lee</lastName>
+    </instructor>
+    <enrollment>19</enrollment>
+    <price>225</price>
+    <weeks>8</weeks>
+  </course>
+  <course cID="ruby003">
+    <topic>Ruby</topic>
+    <instructor iID="I03">
+      <firstName>Chris</firstName>
+      <lastName>Lee</lastName>
+    </instructor>
+    <enrollment>15</enrollment>
+    <price>225</price>
+    <weeks>8</weeks>
+  </course>
+  <course cID="ruby004">
+    <topic>Ruby</topic>
+    <instructor iID="I03">
+      <firstName>Chris</firstName>
+      <lastName>Lee</lastName>
+    </instructor>
+    <enrollment>21</enrollment>
+    <price>225</price>
+    <weeks>8</weeks>
+  </course>
+  <course cID="ruby005">
+    <topic>Ruby</topic>
+    <instructor iID="I05">
+      <firstName>Don</firstName>
+      <lastName>Carson</lastName>
+    </instructor>
+    <enrollment>15</enrollment>
+    <price>225</price>
+    <weeks>8</weeks>
+  </course>
+  <course cID="rails001">
+    <topic>Rails</topic>
+    <instructor iID="I03">
+      <firstName>Chris</firstName>
+      <lastName>Lee</lastName>
+    </instructor>
+    <enrollment>21</enrollment>
+    <price>325</price>
+    <weeks>6</weeks>
+  </course>
+  <course cID="rails002">
+    <topic>Rails</topic>
+    <instructor iID="I03">
+      <firstName>Chris</firstName>
+      <lastName>Lee</lastName>
+    </instructor>
+    <enrollment>24</enrollment>
+    <price>325</price>
+    <weeks>6</weeks>
+  </course>
+  <course cID="rails003">
+    <topic>Rails</topic>
+    <instructor iID="I05">
+      <firstName>Don</firstName>
+      <lastName>Carson</lastName>
+    </instructor>
+    <enrollment>20</enrollment>
+    <price>325</price>
+    <weeks>6</weeks>
+  </course>
+  <course cID="rails004">
+    <topic>Rails</topic>
+    <instructor iID="I03">
+      <firstName>Chris</firstName>
+      <lastName>Lee</lastName>
+    </instructor>
+    <enrollment>18</enrollment>
+    <price>325</price>
+    <weeks>6</weeks>
+  </course>
+  <course cID="git001">
+    <topic>Git</topic>
+    <instructor iID="I01">
+      <firstName>Johnny</firstName>
+      <lastName>Cash</lastName>
+    </instructor>
+    <enrollment>39</enrollment>
+    <price>75</price>
+    <weeks>1</weeks>
+  </course>
+  <course cID="git002">
+    <topic>Git</topic>
+    <instructor iID="I02">
+      <firstName>Tony</firstName>
+      <lastName>Thomas</lastName>
+    </instructor>
+    <enrollment>40</enrollment>
+    <price>75</price>
+    <weeks>1</weeks>
+  </course>
+  <course cID="git003">
+    <topic>Git</topic>
+    <instructor iID="I03">
+      <firstName>Chris</firstName>
+      <lastName>Lee</lastName>
+    </instructor>
+    <enrollment>40</enrollment>
+    <price>75</price>
+    <weeks>1</weeks>
+  </course>
+  <course cID="git004">
+    <topic>Git</topic>
+    <instructor iID="I01">
+      <firstName>Johnny</firstName>
+      <lastName>Cash</lastName>
+    </instructor>
+    <enrollment>40</enrollment>
+    <price>75</price>
+    <weeks>1</weeks>
+  </course>
+  <course cID="git005">
+    <topic>Git</topic>
+    <instructor iID="I01">
+      <firstName>Johnny</firstName>
+      <lastName>Cash</lastName>
+    </instructor>
+    <enrollment>37</enrollment>
+    <price>75</price>
+    <weeks>1</weeks>
+  </course>
+  <course cID="xml001">
+    <topic>XML</topic>
+    <instructor iID="I04">
+      <firstName>Greg</firstName>
+      <lastName>Beale</lastName>
+    </instructor>
+    <enrollment>15</enrollment>
+    <price>250</price>
+    <weeks>10</weeks>
+  </course>
+  <course cID="xml002">
+    <topic>XML</topic>
+    <instructor iID="I05">
+      <firstName>Don</firstName>
+      <lastName>Carson</lastName>
+    </instructor>
+    <enrollment>16</enrollment>
+    <price>250</price>
+    <weeks>10</weeks>
+  </course>
+  <course cID="xml003">
+    <topic>XML</topic>
+    <instructor iID="I04">
+      <firstName>Greg</firstName>
+      <lastName>Beale</lastName>
+    </instructor>
+    <enrollment>13</enrollment>
+    <price>250</price>
+    <weeks>10</weeks>
+  </course>
+  <course cID="xml004">
+    <topic>XML</topic>
+    <instructor iID="I05">
+      <firstName>Don</firstName>
+      <lastName>Carson</lastName>
+    </instructor>
+    <enrollment>16</enrollment>
+    <price>250</price>
+    <weeks>10</weeks>
+  </course>
+  <course cID="xml005">
+    <topic>XML</topic>
+    <instructor iID="I04">
+      <firstName>Greg</firstName>
+      <lastName>Beale</lastName>
+    </instructor>
+    <enrollment>17</enrollment>
+    <price>250</price>
+    <weeks>10</weeks>
+  </course>
+  <course cID="xml006">
+    <topic>XML</topic>
+    <instructor iID="I05">
+      <firstName>Don</firstName>
+      <lastName>Carson</lastName>
+    </instructor>
+    <enrollment>14</enrollment>
+    <price>250</price>
+    <weeks>10</weeks>
+  </course>
+  <course cID="xml007">
+    <topic>XML</topic>
+    <instructor iID="I04">
+      <firstName>Greg</firstName>
+      <lastName>Beale</lastName>
+    </instructor>
+    <enrollment>15</enrollment>
+    <price>250</price>
+    <weeks>10</weeks>
+  </course>
+  <course cID="xml008">
+    <topic>XML</topic>
+    <instructor iID="I05">
+      <firstName>Don</firstName>
+      <lastName>Carson</lastName>
+    </instructor>
+    <enrollment>15</enrollment>
+    <price>250</price>
+    <weeks>10</weeks>
+  </course>
+  <course cID="xml009">
+    <topic>XML</topic>
+    <instructor iID="I04">
+      <firstName>Greg</firstName>
+      <lastName>Beale</lastName>
+    </instructor>
+    <enrollment>14</enrollment>
+    <price>250</price>
+    <weeks>10</weeks>
+  </course>
+  <course cID="hiber001">
+    <topic>Hibernate</topic>
+    <instructor iID="I01">
+      <firstName>Johnny</firstName>
+      <lastName>Cash</lastName>
+    </instructor>
+    <enrollment>18</enrollment>
+    <price>300</price>
+    <weeks>4</weeks>
+  </course>
+  <course cID="hiber002">
+    <topic>Hibernate</topic>
+    <instructor iID="I01">
+      <firstName>Johnny</firstName>
+      <lastName>Cash</lastName>
+    </instructor>
+    <enrollment>17</enrollment>
+    <price>300</price>
+    <weeks>4</weeks>
+  </course>
+  <course cID="hiber003">
+    <topic>Hibernate</topic>
+    <instructor iID="I02">
+      <firstName>Tony</firstName>
+      <lastName>Thomas</lastName>
+    </instructor>
+    <enrollment>14</enrollment>
+    <price>300</price>
+    <weeks>4</weeks>
+  </course>
+  <course cID="hiber004">
+    <topic>Hibernate</topic>
+    <instructor iID="I01">
+      <firstName>Johnny</firstName>
+      <lastName>Cash</lastName>
+    </instructor>
+    <enrollment>12</enrollment>
+    <price>300</price>
+    <weeks>4</weeks>
+  </course>
+  <course cID="hiber005">
+    <topic>Hibernate</topic>
+    <instructor iID="I02">
+      <firstName>Tony</firstName>
+      <lastName>Thomas</lastName>
+    </instructor>
+    <enrollment>18</enrollment>
+    <price>300</price>
+    <weeks>4</weeks>
+  </course>
+</courses>
